@@ -1,0 +1,1 @@
+console.log("\nIt's Alive\n")
